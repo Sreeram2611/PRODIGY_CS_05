@@ -1,5 +1,5 @@
 # Task - 5
-```markdown
+```bash
 # 📡 SREERAM'S PACKET SNIFFER TOOL
 
 A simple TCP packet sniffer written in Python using the Scapy library. This tool captures and logs TCP packets on your network and saves relevant details such as IPs, ports, protocols, and payload data into a text file.
@@ -79,7 +79,8 @@ Destination Port: 443
 Protocol        : 6
 Payload         : b'GET / HTTP/1.1\r\nHost: google.com\r\n\r\n'...
 ------------------------------------------------------------
----
+```
+
 
 ## 📌 License
 
